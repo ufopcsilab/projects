@@ -58,6 +58,12 @@ Possibilities w.r.t. development:
 > 
 > Description: From a shape file with the roads of a region, one generates the road network, in which the nodes are roads and the connections occur when pairs of roads intersect.
 
+8) **Correspondences between the structure of mobility networks and the spreading of COVID-19**
+> Professor: Vander L. S. Freitas
+> 
+> Previous students: Suleimane Ducure
+> Ref: https://doi.org/10.1590/0102-311X00184820
+
 
 ## Multiobjective optimization
 

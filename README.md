@@ -7,6 +7,7 @@ The fields we work in are:
  - Network science / Complex networks / Complex systems
  - Multiobjective optimization
  - Machine Learning / Deep Learning
+ - Data Science
 
 
 Professors:
