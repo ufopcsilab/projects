@@ -62,6 +62,7 @@ Possibilities w.r.t. development:
 > Professor: Vander L. S. Freitas
 > 
 > Previous students: Suleimane Ducure
+>
 > Ref: https://doi.org/10.1590/0102-311X00184820
 
 
