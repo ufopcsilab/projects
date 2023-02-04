@@ -60,4 +60,15 @@ The projects are listed below. It is worth mentioning that there are possible in
 > 
 > Work to be done: Current results show that the approach via Graph Convolutional Network (GCN) is promising [article 3, article 4], however, there is still much to be done to make it feasible for clinical use, especially in terms of computational cost. Currently, we need (1) to find/develop more efficient implementations of the visibility graph technique (used to transform a heartbeat into a graph) and (2) to employ the visibility graph on two ECG derivatives at the same time (visibility graph in 2 dimensions). Another research path is (3) to study other ways of mapping a heartbeat (which is a one-dimensional signal) into a graph.
 
+2) **Automatic Classification of Arrhythmias: Approach Based on Self-Supervised Learning** 
+> Professors: Eduardo J. S. Luz, Pedro H. L. Silva 
+> 
+> Students: Guilherme L. Silva
+> 
+> Description: In this project, we propose the classification of heartbeats using deep learning (convolutional and recurrent networks, attention mechanism) and self-supervised learning. We believe that to make the use of such models more feasible in the field (considering the generalization aspect), self-supervised learning along with the human in the loop could be the right path. 
+> 
+> Results: So far, we have presented a new pretext task for ECG. Guilherme Silva (MSc candidate), achieved promising results with that pretext task and his thesis will be published soon. For a good understanding of the problem, we recommend reading the survey at [link].
+> 
+> Work to be done: (1) Investigate aspects of fairness and unbalance (see article), (2) Investigate aspects of uncertainty and impact of distribution shift (article1, article2, article3, article4), (3) Evaluate computational cost and hardware acceleration (perhaps via FPGA?), Investigate energy-based representation methods, (4) we believe there is room for a survey regarding explainability suca as presented in this [paper](https://www.researchgate.net/publication/367881677_A_Short_Survey_on_Machine_Learning_Explainability_An_Application_to_Periocular_Recognition).
+
 ## Data Science
