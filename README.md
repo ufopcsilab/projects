@@ -21,7 +21,10 @@ Professors:
  - Vander Freitas (vander.freitas@ufop.edu.br, [Lattes CV](http://lattes.cnpq.br/5339877279308939), [Website](https://vanderfreitas.github.io/))
 
 
-Find below some guidelines for our students
+Find below some general guidelines for our students:
+ - Git: Create a git project named 'FirstNameLastName' with 2 folders: 'code' (for your code), 'thesis' (for your latex files). We encourage everyone to also use overleaf for writing. If possible, sync overleaf with the git repository.
+ - Planning: Planning is essential. Make a spreadsheet with a schedule (planning timeline) with goals to be achieved. Hold frequent meetings with your supervisor (preferably on weekly bases) and closely monitor your planning timeline schedule with him. Your supervisor probably has a lot of students under his supervision, and he won't be able to remember everyone's schedule in his head. 
+ - Experiment tracking: Organize your git repository. We strongly recommend using an experiment tracking tool such as [MLFlow](https://mlflow.org/docs/latest/tracking.html)
 
 ## Undergraduate - Scientific Initiation [IC] and Honours thesis [TCC]
 
