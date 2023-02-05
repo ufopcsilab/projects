@@ -36,26 +36,12 @@ Find below some general guidelines for our students:
  - **For undergrad students**: Pay attention to IC deadlines and check the [PROPPI website](https://propp.ufop.br/pt-br/pesquisa/iniciacao-cientifica) frequently.
  - **PPGCC/UFOP template** for your [TCC](), [Thesis]() and [Dissertation](). 
 
-## Undergraduate - Scientific Initiation [IC] and Honours thesis [TCC]
+## Projects you could get involved:
 
-Guidelines for undergrad students...
+Find below lists of projects you could get involved in according to your level (undergraduate, Master's degree, Ph.D.):
 
+[Undergraduate - Scientific Initiation [IC] and Honours thesis [TCC]](projects_undergrad.md)
 
-[Possible projects](projects_undergrad.md)
+[Master's degree](projects_ms.md)
 
-
-## Master's degree
-
-
-Guidelines for Master students...
-
-[Possible projects](projects_ms.md)
-
-
-
-## Ph.D.
-
-
-Guidelines for Ph.D. students...
-
-[Possible projects](projects_phd.md)
+[Ph.D.](projects_phd.md)
