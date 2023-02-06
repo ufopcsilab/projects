@@ -71,7 +71,15 @@ The projects are listed below. It is worth mentioning that there are possible in
 > 
 > Work to be done: (1) Investigate aspects of fairness and unbalance (see [article](https://arxiv.org/abs/2206.02792)), (2) Investigate aspects of uncertainty and impact of distribution shift ([article1](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Combalia_Uncertainty_Estimation_in_Deep_Neural_Networks_for_Dermoscopic_Image_Classification_CVPRW_2020_paper.pdf), [article2](https://openreview.net/pdf?id=LK8bvVSw6rn), [article3](https://vitalab.github.io/blog/2021/06/17/uncertainty.html), [article4](https://arxiv.org/pdf/2206.08871.pdf)), (3) Evaluate computational cost and hardware acceleration (perhaps via FPGA?), Investigate energy-based representation methods, (4) we believe there is room for a survey regarding explainability such as presented in this [paper](https://www.researchgate.net/publication/367881677_A_Short_Survey_on_Machine_Learning_Explainability_An_Application_to_Periocular_Recognition).
 
+2) **Pattern recognition and computer vision techniques applied to biometrics problems** 
+> Professors: Eduardo J. S. Luz, Pedro H. L. Silva 
+> 
+> Students: 
+> 
+> Description:
+> 
 ## Data Science
+1) **Pattern recognition and machine learning techniques applied to financial problems**
 > Professors: Eduardo Luz and Gladston Moreira
 
 >Students: Marcus Almeira, Mariana Mota, Luisa Cizilio, Andressa Souza
@@ -79,3 +87,10 @@ The projects are listed below. It is worth mentioning that there are possible in
 >Description: All financial institutions are adapting to function almost exclusively online. However, the ease of opening digital accounts has brought enormous challenges to the sector. One of the challenges is the ease with which customers move between banks and financial companies, making retention difficult. The ease of opening accounts has also led to an increase in cases of account creation used for fraud. And the uncontrolled explosion in the increase of customers makes credit management virtually impossible to be done manually. In order to assist financial analysts, some form of automation is mandatory. Solutions based on artificial intelligence (AI) and machine learning (ML) techniques, especially artificial neural network models, are powerful tools when there is a good volume of historical data. The project aims to study and develop AI and ML models for fraud detection, credit analysis and customer management.
 
 >Results: This research came from a partnership between the PPGCC/UFOP and Gerencianet (now Efí). See preliminary results in [paper 1](https://sol.sbc.org.br/index.php/eniac/article/download/22791/22614/) and [paper 2](https://sol.sbc.org.br/index.php/eniac/article/download/22772/22595). 
+
+2) **Data Science Applied to Cybersecurity** 
+> Professor: Eduardo J. S. Luz 
+> 
+> Students: 
+> 
+> Description:
