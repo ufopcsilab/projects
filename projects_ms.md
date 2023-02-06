@@ -74,7 +74,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 ## Data Science
 > Professors: Eduardo Luz and Gladston Moreira
 
->Students: 
+>Students: Marcus Almeira, Mariana Mota, Luisa Cizilio, Andressa Souza
 
 >Description: All financial institutions are adapting to function almost exclusively online. However, the ease of opening digital accounts has brought enormous challenges to the sector. One of the challenges is the ease with which customers move between banks and financial companies, making retention difficult. The ease of opening accounts has also led to an increase in cases of account creation used for fraud. And the uncontrolled explosion in the increase of customers makes credit management virtually impossible to be done manually. In order to assist financial analysts, some form of automation is mandatory. Solutions based on artificial intelligence (AI) and machine learning (ML) techniques, especially artificial neural network models, are powerful tools when there is a good volume of historical data. The project aims to study and develop AI and ML models for fraud detection, credit analysis and customer management.
 
