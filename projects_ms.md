@@ -74,7 +74,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 2) **Pattern recognition and computer vision techniques applied to biometrics problems** 
 > Professors: Eduardo J. S. Luz, Pedro H. L. Silva 
 > 
-> Students: 
+> Students: Adriano Figueiredo
 > 
 > Description: Biometrics consists of identifying or verifying an individual through a physical/behavioral trait, which is also known as a biometric modality. We are studying some specific modalities, such as ocular biometrics and through biometric signals (ECG, EEG). Currently, we explore deep learning techniques for the task.
 
