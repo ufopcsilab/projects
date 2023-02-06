@@ -118,7 +118,7 @@ Possibilities w.r.t. development:
 
 > Description: Plant species can be recognized by its leaf, flower, fruit, etc. The aim of this project is to investigate deep learning methods in the context of plant species recognition via images.
 
-Results: We have interesting contributions so far. See this [paper](https://scholar.google.com.br/citations?hl=pt-BR&user=20pViLEAAAAJ&view_op=list_works&sortby=pubdate#:~:text=An%20End%2Dto%2DEnd%20Deep%20Learning%20System%20for%20Hop%20Classification) and this [paper](https://scholar.google.com.br/citations?hl=pt-BR&user=20pViLEAAAAJ&view_op=list_works&sortby=pubdate#:~:text=Dataset%20for%20Hop%20varieties%20classification) for more information.
+> Results: We have interesting contributions so far. See this [paper](https://scholar.google.com.br/citations?hl=pt-BR&user=20pViLEAAAAJ&view_op=list_works&sortby=pubdate#:~:text=An%20End%2Dto%2DEnd%20Deep%20Learning%20System%20for%20Hop%20Classification) and this [paper](https://scholar.google.com.br/citations?hl=pt-BR&user=20pViLEAAAAJ&view_op=list_works&sortby=pubdate#:~:text=Dataset%20for%20Hop%20varieties%20classification) for more information.
 
 5) **Deep learning aplied to medical imagens**
 > Professors: Eduardo Luz, Gladston Moreira, Pedro Silva and Rodrigo Silva
