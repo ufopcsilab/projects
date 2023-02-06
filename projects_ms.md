@@ -88,6 +88,29 @@ The projects are listed below. It is worth mentioning that there are possible in
 > 
 > Description: See this [paper](https://www.sciencedirect.com/science/article/pii/S0925231220316945?casa_token=75SJbD-z5hoAAAAA:-mEJFB2i2y9GmPgHsL9EY-fhU7kCAhLZuOHOJyV6ss_QtrBsQfBA4MOD-NeZmSNPPTRsk4oh0Q) and this [paper](https://dl.acm.org/doi/full/10.1145/3507902?casa_token=Fh1IKv7N-7UAAAAA%3AXUDkj1hYzJbapY8v9xhN6vGkMReFcjwZD6KicXRATIA-GoJTP2CBUWu4eUEWI-aT14BwT_BzL9Ky) for better understanding of the project.
 
+4) **Plant species recognition**
+> Professors: Eduardo Luz and Gladston Moreira
+
+> Students: Pedro Castro (Ph.D. candidate)
+
+> Description: Plant species can be recognized by its leaf, flower, fruit, etc. The aim of this project is to investigate deep learning methods in the context of plant species recognition via images.
+
+Results: We have interesting contributions so far. See this [paper](https://scholar.google.com.br/citations?hl=pt-BR&user=20pViLEAAAAJ&view_op=list_works&sortby=pubdate#:~:text=An%20End%2Dto%2DEnd%20Deep%20Learning%20System%20for%20Hop%20Classification) and this [paper](https://scholar.google.com.br/citations?hl=pt-BR&user=20pViLEAAAAJ&view_op=list_works&sortby=pubdate#:~:text=Dataset%20for%20Hop%20varieties%20classification) for more information.
+
+5) **Deep learning aplied to medical imagens**
+> Professors: Eduardo Luz, Gladston Moreira, Pedro Silva and Rodrigo Silva
+
+> Students: Jean Pinheiro
+
+> Description: Application and development of deep learning techniques for problems related to medical imaging. Study of techniques for feature extraction, segmentation, and classification of artifacts in medical images
+
+6) **Natural Language Processing (NLP) and Speech Recognition**
+> Professor: Eduardo Luz
+
+> Students: João Paulo R. Alvarenga, Amanda Oliveira
+
+> Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese.
+
 ## Data Science
 1) **Pattern recognition and machine learning techniques applied to financial problems**
 > Professors: Eduardo Luz and Gladston Moreira
