@@ -23,7 +23,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Description: Plant species can be recognized by its leaf, flower, fruit, etc. The aim of this project is to investigate deep learning methods in the context of plant species recognition via images. See this [paper](https://ieeexplore.ieee.org/abstract/document/9667141/) for more information. Dataset available within the [paper](https://www.sciencedirect.com/science/article/pii/S2352340921005965).
 
 
-2) ** Promoter prediction with deep learning **
+2) **Promoter prediction with deep learning**
 > Professors: Eduardo Luz and Gladston Moreira
 
 > Students: Lauro Moraes
