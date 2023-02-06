@@ -125,3 +125,10 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Students: 
 > 
 > Description: Applying machine learning techniques to detect serious threats in the network (with a focus on the industry). See the [link](https://analyticsindiamag.com/top-8-cybersecurity-datasets-for-your-next-machine-learning-project/) for a better idea and datasets.
+
+3) **Dataset distilation**
+> Professor: Eduardo Luz
+
+> Students:
+
+> Description:  Dataset distillation aims to derive a smaller dataset from a large one, using synthetic samples, to train models that yield performance comparable with those trained on the original dataset. With this project, we plan to investigate dataset distillation on several tasks in different domains. For a more detailed information see the [paper](https://arxiv.org/abs/2301.07014).
