@@ -82,8 +82,10 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 
 3) **Deep Face Recognition**
-> Professor:
+> Professor: Eduardo J. S. Luz
+> 
 > Students:
+> 
 > Description: See this [paper](https://www.sciencedirect.com/science/article/pii/S0925231220316945?casa_token=75SJbD-z5hoAAAAA:-mEJFB2i2y9GmPgHsL9EY-fhU7kCAhLZuOHOJyV6ss_QtrBsQfBA4MOD-NeZmSNPPTRsk4oh0Q) and this [paper](https://dl.acm.org/doi/full/10.1145/3507902?casa_token=Fh1IKv7N-7UAAAAA%3AXUDkj1hYzJbapY8v9xhN6vGkMReFcjwZD6KicXRATIA-GoJTP2CBUWu4eUEWI-aT14BwT_BzL9Ky) for better understanding of the project.
 
 ## Data Science
