@@ -33,7 +33,7 @@ Find below some general guidelines for our students:
  - **Use a template to start you paper**: The Prof. Jan Van Gemert also has a great [skeleton guidelines](https://jvgemert.github.io/paper_skeleton.rtf) on how to write a paper. Here is an [example of an  article skeleton](https://jvgemert.github.io/paper_skeleton_example_CVPR20.rtf) from Prof. Gemert.
  
  - **Stuck?**: Meet your supervisor more often! We encourage you to engage in regular and open communication with your supervisor. Our goal is to assist you in every way possible, and regular meetings can help facilitate this support.
- - **For PPGCC students**: Get to know the program's [regiment](http://www3.decom.ufop.br/pos/resolucoes/) and be aware of the deadlines. You are the one who should take care of your work. Follow the [PPGCC](http://www3.decom.ufop.br/pos/inicio/) website and the social media.
+ - **For PPGCC students**: Get to know the program's [regiment](http://www3.decom.ufop.br/pos/resolucoes/) and maintain open communication with your student representative. Ultimately, it is your responsibility to manage and stay informed about your academic progress. Follow the [PPGCC](http://www3.decom.ufop.br/pos/inicio/) website and the social media.
  - **For undergrad students**: Pay attention to IC deadlines and check the [PROPPI website](https://propp.ufop.br/pt-br/pesquisa/iniciacao-cientifica) frequently.
  - **PPGCC/UFOP template** for your [TCC](), [Thesis]() and [Dissertation](). 
 
