@@ -134,7 +134,7 @@ Possibilities w.r.t. development:
 
 > Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese.
 > 
-7) **Statistical Test of Hypotheses Applied to Hyper-parameter Optimization**
+7) **Statistical Tests of Hypotheses Applied to Hyper-parameter Optimization**
 > Professor: Rodrigo Silva
  
 > Description: This project aims to develop a rigorous and systematic approach for hyper-parameter optimization. It will use statistical testing methods to test hypotheses about the quality of different hyper-parameter configurations and determine the best set of hyper-parameters for a given task.
