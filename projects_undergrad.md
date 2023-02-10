@@ -6,6 +6,13 @@ The projects are listed below. It is worth mentioning that there are possible in
 # Undergraduate - Scientific Initiation [IC] and Honours thesis [TCC]
 
 
+# Index
+
+- [Network science / Complex networks / Complex systems](#networks)
+- [Multiobjective optimization](#moo)
+- [Machine Learning / Deep Learning](#machine-learning)
+
+
 ## Network science / Complex networks / Complex systems
 
 1) **Front-end for the TSAPI and the generation/analysis of functional networks**
