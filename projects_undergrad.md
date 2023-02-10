@@ -11,6 +11,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 - [Network science / Complex networks / Complex systems](#networks)
 - [Multiobjective optimization](#moo)
 - [Machine Learning / Deep Learning](#machine-learning)
+- [Data Science](#data-science)
 
 
 ## Network science / Complex networks / Complex systems <a name="networks"></a>
@@ -157,7 +158,7 @@ Possibilities w.r.t. development:
 > Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
  
 
-## Data Science
+## Data Science <a name="data-science"></a>
 1) **Pattern recognition and machine learning techniques applied to financial problems**
 > Professors: Eduardo Luz and Gladston Moreira
 
