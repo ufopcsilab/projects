@@ -134,6 +134,11 @@ Possibilities w.r.t. development:
 
 > Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese.
 > 
+4) **Hyper-parameter optimization**
+> Professor: Rodrigo Silva
+> 
+> Description: This project aims to find the best set of parameters to improve machine learning model performance. It will compare various optimization techniques and evaluation schemes on different data types and tasks, providing practical guidelines for hyper-parameter optimization in machine learning.
+
 ## Data Science
 1) **Pattern recognition and machine learning techniques applied to financial problems**
 > Professors: Eduardo Luz and Gladston Moreira
