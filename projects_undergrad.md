@@ -13,7 +13,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 - [Machine Learning / Deep Learning](#machine-learning)
 
 
-## Network science / Complex networks / Complex systems
+## Network science / Complex networks / Complex systems <a name="networks"></a>
 
 1) **Front-end for the TSAPI and the generation/analysis of functional networks**
 > Professor: Vander L. S. Freitas
@@ -73,12 +73,12 @@ Possibilities w.r.t. development:
 > Ref: https://doi.org/10.1590/0102-311X00184820
 
 
-## Multiobjective optimization
+## Multiobjective optimization <a name="moo"></a>
 
 
 
 
-## Machine Learning / Deep Learning
+## Machine Learning / Deep Learning <a name="machine-learning"></a>
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
 > Professors: Eduardo J. S. Luz and Vander L. S. Freitas
 > 
