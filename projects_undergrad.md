@@ -134,10 +134,21 @@ Possibilities w.r.t. development:
 
 > Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese.
 > 
-4) **Hyper-parameter optimization**
+7) **Statistical Test of Hypotheses Applied to Hyper-parameter Optimization**
 > Professor: Rodrigo Silva
-> 
-> Description: This project aims to find the best set of parameters to improve machine learning model performance. It will compare various optimization techniques and evaluation schemes on different data types and tasks, providing practical guidelines for hyper-parameter optimization in machine learning.
+ 
+> Description: This project aims to develop a rigorous and systematic approach for hyper-parameter optimization. It will use statistical testing methods to test hypotheses about the quality of different hyper-parameter configurations and determine the best set of hyper-parameters for a given task.
+
+8) **Interpretable Feature Extraction for tabular data**
+> Professor: Rodrigo Silva
+ 
+> Description: This project aims to identify the most important variables in a dataset while also providing insights into why these variables are significant. It may investigate techniques such as LIME, SHAP, and decision trees to understand and explain the feature extraction process.
+
+9) **Surrogate-based Multi-objetive Optimization for Deep Neural Networks Compression**
+> Professor: Rodrigo Silva
+
+> Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
+ 
 
 ## Data Science
 1) **Pattern recognition and machine learning techniques applied to financial problems**
