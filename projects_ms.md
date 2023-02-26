@@ -47,6 +47,17 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 ## Multiobjective optimization
 
+1) **Surrogate-based Multi-objetive Optimization for Deep Neural Networks Compression**
+> Professor: Rodrigo Silva
+
+> Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
+
+2) **Multi-objetive Feature Extraction for Tabular Data**
+
+> Professor: Rodrigo Silva
+
+> Descrition: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
+
 
 ## Machine Learning / Deep Learning
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
@@ -132,3 +143,14 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Students:
 
 > Description:  Dataset distillation aims to derive a smaller dataset from a large one, using synthetic samples, to train models that yield performance comparable with those trained on the original dataset. With this project, we plan to investigate dataset distillation on several tasks in different domains. For a more detailed information see the [paper](https://arxiv.org/abs/2301.07014).
+
+4) **Surrogate-based Multi-objetive Optimization for Deep Neural Networks Compression**
+> Professor: Rodrigo Silva
+
+> Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
+
+5) **Multi-objetive Feature Extraction for Tabular Data**
+
+> Professor: Rodrigo Silva
+
+> Descrition: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
