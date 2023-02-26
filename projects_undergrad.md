@@ -76,8 +76,10 @@ Possibilities w.r.t. development:
 
 ## Multiobjective optimization <a name="moo"></a>
 
+1) **Surrogate-based Multi-objetive Optimization for Deep Neural Networks Compression**
+> Professor: Rodrigo Silva
 
-
+> Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
 
 ## Machine Learning / Deep Learning <a name="machine-learning"></a>
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
