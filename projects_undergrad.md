@@ -21,57 +21,64 @@ The projects are listed below. It is worth mentioning that there are possible in
 >
 > The former student involved: Vinicius Silva (http://www.monografias.ufop.br/handle/35400000/4934) 
 >
-> Description: The TSAPI is a distributed API that compares sets of time series against each other, producing similarity matrices as output. This project aims to build a front end that consumes the TSAPI and generates functional networks from the similarity matrices, analyze the networks, and shows plots with metrics and distributions. 
+> Description: The TSAPI is a distributed API designed to compare sets of time series and produce similarity matrices as output. In this project, we aim to create a front-end interface that can consume the TSAPI and generate functional networks from the produced similarity matrices. Additionally, we will analyze the networks and display plots that visualize the metrics and distributions.
 
-2) **Experiment design with the TSAPI for time series generation and analysis**
-> Professor: Vander L. S. Freitas 
+2) **Assess similarity metrics/algorithms for time series concerning different kinds of series (chaotic, periodic, chaotic+periodic, noisy)**
+> Professor: Vander L. S. Freitas
 > 
-> The former student involved: Vinicius Silva (http://www.monografias.ufop.br/handle/35400000/4934)
+> Students: Iuri Diniz, Vinicius Silva
 > 
-> Description: ...
+> Description: The generation of functional networks, as described by [(Ferreira et al., 2021)](https://doi.org/10.1140/epjs/s11734-021-00274-y), is an interesting research topic. These networks are formed from nodes that are connected when their properties or attributes are similar. However, a critical challenge in this area is to identify a suitable similarity metric or algorithm, which can be difficult depending on the type of data being compared. Therefore, this project aims to compare various types of temporal series (including chaotic, periodic, chaotic+periodic, noisy, and both real and synthetic data) and evaluate different similarity metrics and algorithms for constructing functional networks. 
 
 3) **Generating and storing temporal collaboration networks**
 > Professor: Vander L. S. Freitas
 >
-> Description: OpenAlex (https://openalex.org/) is An open and comprehensive catalog of scholarly papers, authors, and institutions. One has to generate and store temporal collaboration networks from the OpenAlex dataset, based on specific queries.
+> Description: [OpenAlex](https://openalex.org/) is a comprehensive and open catalog of scholarly papers, authors, and institutions. Our objective is qury the database and create temporal networks in standard formats. Currently, there is an API (https://github.com/filipinascimento/openalexnet) available to generate static networks, which could be adapted to the temporal context.
 
 4) **Community detection in temporal networks**
 > Professor: Vander L. S. Freitas
 > 
-> Description: Implement community detection algorithms for temporal networks
+> Description: The objective of this project is to implement and compare different community detection algorithms for temporal networks. The [OpenAlex](https://openalex.org/) dataset could serve as a case study for this investigation.
+> 
+> Literature: [Fortunato (2010)](https://doi.org/10.1016/j.physrep.2009.11.002), [Rossetti and Cazabet (2018)](https://doi.org/10.1145/3172867).
 
 5) **Robustness analysis in oscillator networks**
 > Professor: Vander L. S. Freitas
 > 
 > Previous students: Vinicius Fonseca, Suleimane Ducure, Douglas Barbosa
 > 
-> Description: The aim is to seek attack strategies that best destroy or keep synchronization.
+> Description: The aim is to seek attack strategies that best destroy or keep synchronization. 
+> 
+> Literature: [Barabasi (2016)](http://networksciencebook.com/chapter/8), [Strogatz and Stewart (1993)](https://www.jstor.org/stable/24941731), [Mallada and Tang (2013)](https://doi.org/10.1088/1751-8113/46/50/505101).
 
 6) **Simulation of spreading models on top of networks**
 > Professor: Vander L. S. Freitas
 > 
 > Students: Gabriel F. da Costa
 > 
-> Description: 
-> Possibilities w.r.t. model: 
->- metapopulation on each node.
->- contact networks.
-Possibilities w.r.t. development:
->- create a website that allows the user to upload his network;
->- create a NetLogo project to run the model on top of synthetic networks
->- implementation of spreading models on top of multilayer networks; temporal networks
+> Description: Our focus is on simulating spreading models on networks, and there are several options for choosing the model. One possibility is to simulate a metapopulation on each node, or to use contact networks where each node represents an individual. Additionally, we're interested in exploring the development of platforms to facilitate this work. For instance, we could create a website that allows users to upload their own network, select a specific model, simulate it, and visualize/download the results. Another option is to develop a [NetLogo](https://ccl.northwestern.edu/netlogo/) project that can run the model on both synthetic and real networks. Finally, we're also interested in implementing spreading models on multilayer and temporal networks. We are interested in simulating spreading models on top of networks. 
+> 
+> Literature: [Harko et al. (2014)](https://doi.org/10.1016/j.amc.2014.03.030), [Lamosa et al (2021)](https://doi.org/10.1371/journal.pone.0248126).
 
 7) **Development of a QGIS add-on to generate road networks from shape files**
 > Professor: Vander L. S. Freitas
 > 
-> Description: From a shape file with the roads of a region, one generates the road network, in which the nodes are roads and the connections occur when pairs of roads intersect.
+> Description: The objective of this project is to develop a QGIS add-on that can take a shapefile containing road data for a particular region as input and generate a corresponding road network. The resulting network will feature roads as nodes, and connections between these nodes will be created wherever pairs of roads intersect.
 
-8) **Correspondences between the structure of mobility networks and the spreading of COVID-19**
+8) **Investigate which transport modes were more important during the COVID-19 pandemic** 
 > Professor: Vander L. S. Freitas
 > 
-> Previous students: Suleimane Ducure
->
-> Ref: https://doi.org/10.1590/0102-311X00184820
+> Students: Suleimane Ducure
+> 
+> Description: This project aims to establish a correlation between the structure of mobility networks and the spread of COVID-19. Our hypothesis is that the transportation network can significantly influence the path of the disease, which has been confirmed for the terrestrial mode under certain conditions, as noted by [(Freitas et al, 2020)](http://dx.doi.org/10.1590/0102-311X00184820). However, we seek to determine the role of each transport mode in the spread of the pandemic during different phases.
+
+
+9) **Characterize mobility networks from different countries, in different scales and topologies (temporal, multilayer)**
+> Professor: Vander L. S. Freitas
+> 
+> Students: Diogo Nascimento
+> 
+> Description: We aim to create a comprehensive dataset of mobility networks from different regions of the world, encompassing various resolutions (intra-city, inter-city) and types (static, temporal, weighted, multilayer, etc.). The datasets will be downloaded, and the corresponding networks will be generated and stored in a consistent format. Descriptive statistics will be extracted from the networks, and a comparative analysis will be conducted to produce a survey of the different mobility networks. All data and code will be made publicly available, facilitating further research in this field.
 
 
 ## Multiobjective optimization <a name="moo"></a>
