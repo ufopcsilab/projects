@@ -52,9 +52,9 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Descrition: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
 
-3) ** Multi-objetive Problem: Guiding under uniformity measure in the decision space
+3) **Multi-objetive Problem: Guiding under uniformity measure in the decision space**
 
-> Prfofessor: Gladston Moreira
+> Professor: Gladston Moreira
 
 > Student: Open selection process 
 
