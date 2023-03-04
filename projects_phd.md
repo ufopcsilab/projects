@@ -17,7 +17,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 1) **Graph Neural Networks for time series forecast**
 
-Prfofessor: Vander Freitas and Gladston Moreira
+Professor: Vander Freitas and Gladston Moreira
 
 > Student: Fernando Duarte
 
@@ -28,7 +28,7 @@ Prfofessor: Vander Freitas and Gladston Moreira
 
 1) **Multi-objetive Problem: Guiding under uniformity measure in the decision space**
 
-> Prfofessor: Gladston Moreira
+> Professor: Gladston Moreira
 
 > Student: Open selection process 
 
