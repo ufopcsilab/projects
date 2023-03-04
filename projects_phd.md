@@ -15,6 +15,13 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 ## Network science / Complex networks / Complex systems <a name="networks"></a>
 
+1)
+
+Prfofessor: Vander Freitas and Gladston Moreira
+
+> Student: Fernando Duarte
+
+> Descrition: 
 
 
 ## Multiobjective optimization <a name="moo"></a>
@@ -22,6 +29,8 @@ The projects are listed below. It is worth mentioning that there are possible in
 1) ** Multi-objetive Problem: Guiding under uniformity measure in the decision space
 
 > Prfofessor: Gladston Moreira
+
+> Student: Open selection process 
 
 > Descrition: It aims to develop approaches for multi-objective optimization that integrates a guiding criterion to promote the uniformity of solutions in the decision variable space into the search procedure. A good representation of solutions in the decision space is also important from the point of view of the decision-making process. See this [paper](https://ieeexplore.ieee.org/document/9037034).
 
