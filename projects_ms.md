@@ -52,6 +52,14 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Descrition: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
 
+3) ** Multi-objetive Problem: Guiding under uniformity measure in the decision space
+
+> Prfofessor: Gladston Moreira
+
+> Student: Open selection process 
+
+> Descrition: It aims to develop approaches for multi-objective optimization that integrates a guiding criterion to promote the uniformity of solutions in the decision variable space into the search procedure. A good representation of solutions in the decision space is also important from the point of view of the decision-making process. See this [paper](https://ieeexplore.ieee.org/document/9037034).
+
 
 ## Machine Learning / Deep Learning <a name="machine-learning"></a>
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
@@ -76,7 +84,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 > 
 > Work to be done: (1) Investigate aspects of fairness and unbalance (see [article](https://arxiv.org/abs/2206.02792)), (2) Investigate aspects of uncertainty and impact of distribution shift ([article1](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Combalia_Uncertainty_Estimation_in_Deep_Neural_Networks_for_Dermoscopic_Image_Classification_CVPRW_2020_paper.pdf), [article2](https://openreview.net/pdf?id=LK8bvVSw6rn), [article3](https://vitalab.github.io/blog/2021/06/17/uncertainty.html), [article4](https://arxiv.org/pdf/2206.08871.pdf)), (3) Evaluate computational cost and hardware acceleration (perhaps via FPGA?), Investigate energy-based representation methods, (4) we believe there is room for a survey regarding explainability such as presented in this [paper](https://www.researchgate.net/publication/367881677_A_Short_Survey_on_Machine_Learning_Explainability_An_Application_to_Periocular_Recognition).
 
-2) **Pattern recognition and computer vision techniques applied to biometrics problems** 
+3) **Pattern recognition and computer vision techniques applied to biometrics problems** 
 > Professors: Eduardo J. S. Luz, Pedro H. L. Silva 
 > 
 > Students: Adriano Figueiredo
@@ -86,28 +94,28 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Results: Our group has been working on this topic for over 10 years and has some contributions published in the literature, whether in ocular/periocular biometrics ([paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Deep%20periocular%20representation%20aiming%20video%20surveillance)), ECG signal [paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Learning%20deep%20off%2Dthe%2Dperson%20heart%20biometrics%20representations), EEG [paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Convolutional%20network%20for%20EEG%2Dbased%20biometric), among others (see [paper](https://link.springer.com/article/10.1007/s10462-021-10028-w) and [paper](https://www.mdpi.com/1424-8220/19/13/2968)). Currently, we are building a database to extract signals through cameras using the Eulerian Video Magnification (EVM) method. We are also working to improve a loss function (D-loss - proposed by Prof. Pedro) for biometrics purposes (see [paper](https://ieeexplore.ieee.org/abstract/document/9891934)).
 
 
-3) **DeepFake Face Recognition**
+4) **DeepFake Face Recognition**
 > Professor: Eduardo J. S. Luz
 > 
 > Students:
 > 
 > Description: See this [paper](https://www.sciencedirect.com/science/article/pii/S0925231220316945?casa_token=75SJbD-z5hoAAAAA:-mEJFB2i2y9GmPgHsL9EY-fhU7kCAhLZuOHOJyV6ss_QtrBsQfBA4MOD-NeZmSNPPTRsk4oh0Q) and this [paper](https://dl.acm.org/doi/full/10.1145/3507902?casa_token=Fh1IKv7N-7UAAAAA%3AXUDkj1hYzJbapY8v9xhN6vGkMReFcjwZD6KicXRATIA-GoJTP2CBUWu4eUEWI-aT14BwT_BzL9Ky) for better understanding of the project.
 
-4) **Plant species recognition**
+5) **Plant species recognition**
 > Professors: Eduardo Luz and Gladston Moreira
 
 > Students: Pedro Castro (Ph.D. candidate)
 
 > Description: Plant species can be recognized by its leaf, flower, fruit, etc. The aim of this project is to investigate deep learning methods in the context of plant species recognition via images. See this [paper](https://ieeexplore.ieee.org/abstract/document/9667141/) for more information. Dataset available within the [paper](https://www.sciencedirect.com/science/article/pii/S2352340921005965).
 
-5) **Deep learning aplied to medical imagens**
+6) **Deep learning aplied to medical imagens**
 > Professors: Eduardo Luz, Gladston Moreira, Pedro Silva and Rodrigo Silva
 
 > Students: Jean Pinheiro
 
 > Description: Application and development of deep learning techniques for problems related to medical imaging. Study of techniques for feature extraction, segmentation, and classification of artifacts in medical images
 
-6) **Natural Language Processing (NLP) and Speech Recognition**
+7) **Natural Language Processing (NLP) and Speech Recognition**
 > Professor: Eduardo Luz
 
 > Students: João Paulo R. Alvarenga, Amanda Oliveira
