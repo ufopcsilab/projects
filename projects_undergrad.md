@@ -88,6 +88,11 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
 
+2) **A Multi-Objective Approach to the Menu Planning Problem Focused on Primary Schools in Minas Gerais**
+> Professor: Pedro Silva
+
+> Description: This work had the objective of generating a set of meal plans for primary schools (6th to 9th grade) from Minas Gerais State, using the Multi-objective diet Problem, the Non-Dominated Genetic Algorithm - II ( NSGA-II) and the $\epsilon$-Constraint strategy, in order to minimize the cost and the nutritional error of meals, besides meeting the nutritional needs of teenagers from 11 to 15 years old. To achieve this objective, tests were performed using a database comprehending 97 foods, obtained from the booklet of the \textit{Cardápios da Alimentação Escolar of the Secretaria de Estado de Educação de Minas Gerais} and their nutritional values were obtained from the table \textit{Tabela Brasileira de Composição dos Alimentos (TBCA)}. The cost values of each food were calculated accounting the medium price charged for brazilian retail supermarkets. The proposed methodology was able to generate sets of non-dominated solutions to the problem, where each point represents a solution among the considered objectives. Each non-dominated solution obtained represents a possible set of meal plans for the schools. Moreover, the generated diets match every nutritional value recommended by the consulted references.  
+
 ## Machine Learning / Deep Learning <a name="machine-learning"></a>
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
 > Professors: Eduardo J. S. Luz and Vander L. S. Freitas
@@ -165,6 +170,11 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Professor: Rodrigo Silva
 
 > Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
+
+10) **A specialized ChatGPT for a UFOP context**
+> Professor: Pedro Silva
+
+> Description: In this project, a chatbot based on ChatGPT is created for the UFOP context. The objective is to respond to the student's questions about the context of the UFOP. Besides, a different approach is to automatically generate content about the CSILab and UFOP.
  
 
 ## Data Science <a name="data-science"></a>
