@@ -154,7 +154,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Students: João Paulo R. Alvarenga, Amanda Oliveira
 
-> Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese. For reference see [Alvarenga at al.](https://latamt.ieeer9.org/index.php/transactions/article/view/7464) - [Link for video abstract](https://www.youtube.com/watch?v=yJ8FygAPvqw) 
+> Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese. For reference see [Alvarenga at al, 2023](https://latamt.ieeer9.org/index.php/transactions/article/view/7464) - [Link for video abstract](https://www.youtube.com/watch?v=yJ8FygAPvqw) 
 > 
 7) **Statistical Tests of Hypotheses Applied to Hyper-parameter Optimization**
 > Professor: Rodrigo Silva
