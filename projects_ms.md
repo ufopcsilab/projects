@@ -76,7 +76,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 > 
 > Work to be done: (1) Investigate aspects of fairness and unbalance (see [article](https://arxiv.org/abs/2206.02792)), (2) Investigate aspects of uncertainty and impact of distribution shift ([article1](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Combalia_Uncertainty_Estimation_in_Deep_Neural_Networks_for_Dermoscopic_Image_Classification_CVPRW_2020_paper.pdf), [article2](https://openreview.net/pdf?id=LK8bvVSw6rn), [article3](https://vitalab.github.io/blog/2021/06/17/uncertainty.html), [article4](https://arxiv.org/pdf/2206.08871.pdf)), (3) Evaluate computational cost and hardware acceleration (perhaps via FPGA?), Investigate energy-based representation methods, (4) we believe there is room for a survey regarding explainability such as presented in this [paper](https://www.researchgate.net/publication/367881677_A_Short_Survey_on_Machine_Learning_Explainability_An_Application_to_Periocular_Recognition).
 
-2) **Pattern recognition and computer vision techniques applied to biometrics problems** 
+3) **Pattern recognition and computer vision techniques applied to biometrics problems** 
 > Professors: Eduardo J. S. Luz, Pedro H. L. Silva 
 > 
 > Students: Adriano Figueiredo
@@ -86,34 +86,51 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Results: Our group has been working on this topic for over 10 years and has some contributions published in the literature, whether in ocular/periocular biometrics ([paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Deep%20periocular%20representation%20aiming%20video%20surveillance)), ECG signal [paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Learning%20deep%20off%2Dthe%2Dperson%20heart%20biometrics%20representations), EEG [paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Convolutional%20network%20for%20EEG%2Dbased%20biometric), among others (see [paper](https://link.springer.com/article/10.1007/s10462-021-10028-w) and [paper](https://www.mdpi.com/1424-8220/19/13/2968)). Currently, we are building a database to extract signals through cameras using the Eulerian Video Magnification (EVM) method. We are also working to improve a loss function (D-loss - proposed by Prof. Pedro) for biometrics purposes (see [paper](https://ieeexplore.ieee.org/abstract/document/9891934)).
 
 
-3) **DeepFake Face Recognition**
+4) **DeepFake Face Recognition**
 > Professor: Eduardo J. S. Luz
 > 
 > Students:
 > 
 > Description: See this [paper](https://www.sciencedirect.com/science/article/pii/S0925231220316945?casa_token=75SJbD-z5hoAAAAA:-mEJFB2i2y9GmPgHsL9EY-fhU7kCAhLZuOHOJyV6ss_QtrBsQfBA4MOD-NeZmSNPPTRsk4oh0Q) and this [paper](https://dl.acm.org/doi/full/10.1145/3507902?casa_token=Fh1IKv7N-7UAAAAA%3AXUDkj1hYzJbapY8v9xhN6vGkMReFcjwZD6KicXRATIA-GoJTP2CBUWu4eUEWI-aT14BwT_BzL9Ky) for better understanding of the project.
 
-4) **Plant species recognition**
+5) **Plant species recognition**
 > Professors: Eduardo Luz and Gladston Moreira
 
 > Students: Pedro Castro (Ph.D. candidate)
 
 > Description: Plant species can be recognized by its leaf, flower, fruit, etc. The aim of this project is to investigate deep learning methods in the context of plant species recognition via images. See this [paper](https://ieeexplore.ieee.org/abstract/document/9667141/) for more information. Dataset available within the [paper](https://www.sciencedirect.com/science/article/pii/S2352340921005965).
 
-5) **Deep learning aplied to medical imagens**
+6) **Deep learning aplied to medical imagens**
 > Professors: Eduardo Luz, Gladston Moreira, Pedro Silva and Rodrigo Silva
 
 > Students: Jean Pinheiro
 
 > Description: Application and development of deep learning techniques for problems related to medical imaging. Study of techniques for feature extraction, segmentation, and classification of artifacts in medical images. For reference, see [Luz et at, 2022](https://link.springer.com/article/10.1007/s42600-021-00151-6) and [Silva et al, 2020](https://www.sciencedirect.com/science/article/pii/S2352914820305773)
 
-6) **Natural Language Processing (NLP) and Speech Recognition**
+7) **Natural Language Processing (NLP) and Speech Recognition**
 > Professor: Eduardo Luz
 
 > Students: João Paulo R. Alvarenga, Amanda Oliveira
 
 > Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese. For reference see [Alvarenga at al, 2023](https://latamt.ieeer9.org/index.php/transactions/article/view/7464) - [Link for video abstract](https://www.youtube.com/watch?v=yJ8FygAPvqw) 
 > 
+
+8) **Hiperparameter optimization**
+> Professor: Jadson Castro Gertrudes
+
+> Students:
+
+> Description: In this project, we study the challenge of establishing appropriate values for the hyperparameters of Machine Learning (ML) algorithms, which affect the predictive performance of induced models. Although tuning techniques can maximize performance, they have high computational costs. Default values suggested by the algorithm developer or implementing tools usually result in acceptable performance, but different implementations may have distinct default values.
+
+
+9) **Integration and evaluation of quality measures for optimal cluster extraction in hierarchical clustering algorithms**
+> Professor: Jadson Castro Gertrudes
+
+> Students: 
+
+> Description: Extracting a clustering from data based on a hierarchy of groups, rather than directly from the data set using a partitioning clustering algorithm, has some advantages as it allows us to observe relationships between groups and subgroups beforehand, as well as the stability of these groups across different hierarchical levels before making any decisions about what constitutes a relevant partition of the data. A traditional way to extract a partition from the hierarchy of groups is through horizontal cuts in this hierarchy, such as dendrogram cuts. Recently, this problem has gained particular importance since horizontal cuts do not provide solutions composed of groups described by different levels of abstraction. Thus, the FOSC framework was developed for optimal cluster extraction from hierarchies of clusters through local cuts in this hierarchy, using dynamic programming and quality measures for group extraction. Several measures have been developed regarding quality criteria that have shown good results in group extraction. The project aims to develop, combine, and evaluate measures for group extraction to provide a new framework of measures that can be used within the FOSC framework. 
+
+
 
 ## Data Science <a name="data-science"></a>
 1) **Pattern recognition and machine learning techniques applied to financial problems**
