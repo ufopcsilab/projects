@@ -172,10 +172,18 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
 
 10) **A specialized ChatGPT for a UFOP context**
-> Professor: Pedro Silva
+> Professors: Pedro Silva and Jadson Castro Gertrudes
 
 > Description: In this project, a chatbot based on ChatGPT is created for the UFOP context. The objective is to respond to the student's questions about the context of the UFOP. Besides, a different approach is to automatically generate content about the CSILab and UFOP.
- 
+
+
+11) **Deep learning approaches for compound structure-activity relationship analysis**
+> Professor: Jadson Castro Gertrudes
+
+> Students: 
+
+> Description: In this project, we study the use of deep learning approaches for analyzing the relationship between chemical structure and biological activity, specifically in medicinal chemistry. These approaches are becoming increasingly important for discovering new bioactive compounds, potentially leading to new treatments for chronic diseases. One recent area of interest is using deep learning techniques to analyze complex problems, such as predicting biological activity based on molecular structure. Recent studies have also focused on selecting the best chemical descriptors for SAR analysis. 
+
 
 ## Data Science <a name="data-science"></a>
 1) **Pattern recognition and machine learning techniques applied to financial problems**
@@ -200,3 +208,12 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Students:
 
 > Description:  Dataset distillation aims to derive a smaller dataset from a large one, using synthetic samples, to train models that yield performance comparable with those trained on the original dataset. With this project, we plan to investigate dataset distillation on several tasks in different domains. For a more detailed information see the [paper](https://arxiv.org/abs/2301.07014).
+
+
+4) **Extraction and Analysis of Lizard Signals**
+> Professor: Jadson Castro Gertrudes, Pedro Silva, Eduardo Luz, and Gladston Moreira
+
+>Student: João Gabriel Fernandes Zenóbio
+
+>Description: Animal communication is essential for survival, and researchers have dedicated themselves to studying patterns of signals emitted by lizards, particularly visual communication through head-bobbing movements. In this context, this work proposes using machine learning techniques to identify and analyze communication patterns in Tropidurus lizards.
+
