@@ -105,14 +105,15 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Students: Jean Pinheiro
 
-> Description: Application and development of deep learning techniques for problems related to medical imaging. Study of techniques for feature extraction, segmentation, and classification of artifacts in medical images
+> Description: Application and development of deep learning techniques for problems related to medical imaging. Study of techniques for feature extraction, segmentation, and classification of artifacts in medical images. For reference, see [Luz et at, 2022](https://link.springer.com/article/10.1007/s42600-021-00151-6) and [Silva et al, 2020](https://www.sciencedirect.com/science/article/pii/S2352914820305773)
 
 6) **Natural Language Processing (NLP) and Speech Recognition**
 > Professor: Eduardo Luz
 
 > Students: João Paulo R. Alvarenga, Amanda Oliveira
 
-> Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese.
+> Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese. For reference see [Alvarenga at al, 2023](https://latamt.ieeer9.org/index.php/transactions/article/view/7464) - [Link for video abstract](https://www.youtube.com/watch?v=yJ8FygAPvqw) 
+> 
 
 ## Data Science <a name="data-science"></a>
 1) **Pattern recognition and machine learning techniques applied to financial problems**
