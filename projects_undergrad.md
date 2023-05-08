@@ -88,6 +88,15 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
 
+1) **Multi-objetive Problem: Guiding under uniformity measure in the decision space**
+
+> Professor: Gladston Moreira
+
+> Student: Gustavo Nascimento 
+
+> Descrition: It aims to develop approaches for multi-objective optimization that integrates a guiding criterion to promote the uniformity of solutions in the decision variable space into the search procedure. A good representation of solutions in the decision space is also important from the point of view of the decision-making process. See this [paper](https://ieeexplore.ieee.org/document/9037034).
+
+
 ## Machine Learning / Deep Learning <a name="machine-learning"></a>
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
 > Professors: Eduardo J. S. Luz and Vander L. S. Freitas
