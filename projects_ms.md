@@ -52,6 +52,14 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Descrition: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
 
+3) **Multi-objetive Problem: Guiding under uniformity measure in the decision space**
+
+> Professor: Gladston Moreira
+
+> Student: Open selection process 
+
+> Descrition: It aims to develop approaches for multi-objective optimization that integrates a guiding criterion to promote the uniformity of solutions in the decision variable space into the search procedure. A good representation of solutions in the decision space is also important from the point of view of the decision-making process. See this [paper](https://ieeexplore.ieee.org/document/9037034).
+
 
 ## Machine Learning / Deep Learning <a name="machine-learning"></a>
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
