@@ -93,6 +93,15 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Description: This work had the objective of generating a set of meal plans for primary schools (6th to 9th grade) from Minas Gerais State, using the Multi-objective diet Problem, the Non-Dominated Genetic Algorithm - II ( NSGA-II) and the $\epsilon$-Constraint strategy, in order to minimize the cost and the nutritional error of meals, besides meeting the nutritional needs of teenagers from 11 to 15 years old. To achieve this objective, tests were performed using a database comprehending 97 foods, obtained from the booklet of the \textit{Cardápios da Alimentação Escolar of the Secretaria de Estado de Educação de Minas Gerais} and their nutritional values were obtained from the table \textit{Tabela Brasileira de Composição dos Alimentos (TBCA)}. The cost values of each food were calculated accounting the medium price charged for brazilian retail supermarkets. The proposed methodology was able to generate sets of non-dominated solutions to the problem, where each point represents a solution among the considered objectives. Each non-dominated solution obtained represents a possible set of meal plans for the schools. Moreover, the generated diets match every nutritional value recommended by the consulted references.  
 
+1) **Multi-objetive Problem: Guiding under uniformity measure in the decision space**
+
+> Professor: Gladston Moreira
+
+> Student: Gustavo Nascimento 
+
+> Descrition: It aims to develop approaches for multi-objective optimization that integrates a guiding criterion to promote the uniformity of solutions in the decision variable space into the search procedure. A good representation of solutions in the decision space is also important from the point of view of the decision-making process. See this [paper](https://ieeexplore.ieee.org/document/9037034).
+
+
 ## Machine Learning / Deep Learning <a name="machine-learning"></a>
 1) **Automatic Classification of Arrhythmias: Approach Based on Temporal Vectorcardiogram and Graph Neural Networks** 
 > Professors: Eduardo J. S. Luz and Vander L. S. Freitas
