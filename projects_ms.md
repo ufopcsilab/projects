@@ -139,7 +139,6 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Description: Extracting a clustering from data based on a hierarchy of groups, rather than directly from the data set using a partitioning clustering algorithm, has some advantages as it allows us to observe relationships between groups and subgroups beforehand, as well as the stability of these groups across different hierarchical levels before making any decisions about what constitutes a relevant partition of the data. A traditional way to extract a partition from the hierarchy of groups is through horizontal cuts in this hierarchy, such as dendrogram cuts. Recently, this problem has gained particular importance since horizontal cuts do not provide solutions composed of groups described by different levels of abstraction. Thus, the FOSC framework was developed for optimal cluster extraction from hierarchies of clusters through local cuts in this hierarchy, using dynamic programming and quality measures for group extraction. Several measures have been developed regarding quality criteria that have shown good results in group extraction. The project aims to develop, combine, and evaluate measures for group extraction to provide a new framework of measures that can be used within the FOSC framework. 
 
 
-
 ## Data Science <a name="data-science"></a>
 1) **Pattern recognition and machine learning techniques applied to financial problems**
 > Professors: Eduardo Luz and Gladston Moreira
