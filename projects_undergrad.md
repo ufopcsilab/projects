@@ -173,7 +173,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 8) **Interpretable Feature Extraction for tabular data**
 > Professor: Rodrigo Silva
  
-> Description: This project aims to identify the most important variables in a dataset while also providing insights into why these variables are significant. It may investigate techniques such as LIME, SHAP, and decision trees to understand and explain the feature extraction process.
+> Description: This project aims to identify the most important variables in a dataset while also providing insights into why these variables are significant. It may investigate techniques such as LIME, SHAP, and decision trees to understand and explain the feature extraction process. More details at https://shorturl.at/bitx4
 
 9) **Surrogate-based Multi-objetive Optimization for Deep Neural Networks Compression**
 > Professor: Rodrigo Silva
@@ -226,3 +226,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 >Description: Animal communication is essential for survival, and researchers have dedicated themselves to studying patterns of signals emitted by lizards, particularly visual communication through head-bobbing movements. In this context, this work proposes using machine learning techniques to identify and analyze communication patterns in Tropidurus lizards.
 
+5) **Interpretable Feature Extraction for tabular data**
+> Professor: Rodrigo Silva
+ 
+> Description: This project aims to identify the most important variables in a dataset while also providing insights into why these variables are significant. It may investigate techniques such as LIME, SHAP, and decision trees to understand and explain the feature extraction process. More details at https://shorturl.at/bitx4
