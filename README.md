@@ -8,6 +8,7 @@ The fields we work in are:
  - Multiobjective optimization
  - Machine Learning / Deep Learning
  - Data Science
+ - Computational Statistics
 
 
 Professors:
@@ -19,6 +20,7 @@ Professors:
  - Rodrigo Silva (rodrigo.silva@ufop.edu.br, [Lattes CV](http://lattes.cnpq.br/1368091094952755))
  - Valéria Santos (valeriacs@ufop.edu.br, [Lattes CV](http://lattes.cnpq.br/1153044237982775))
  - Vander Freitas (vander.freitas@ufop.edu.br, [Lattes CV](http://lattes.cnpq.br/5339877279308939), [Website](https://vanderfreitas.github.io/))
+ - Ivair Silva (ivair@ufop.edu.br, [Lattes CV](http://lattes.cnpq.br/7969497765428744))
 
 
 Find below some general guidelines for our students:
