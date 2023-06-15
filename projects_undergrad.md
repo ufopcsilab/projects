@@ -230,3 +230,8 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Professor: Rodrigo Silva
  
 > Description: This project aims to identify the most important variables in a dataset while also providing insights into why these variables are significant. It may investigate techniques such as LIME, SHAP, and decision trees to understand and explain the feature extraction process. More details at https://shorturl.at/bitx4
+
+6) **Conspiracy Theory Detection and Classification from YouTube Videos**
+> Professor: Eduardo Luz
+ 
+> Description: This project seeks to delve into a specific YouTube video dataset, with the objective of detecting and scrutinizing prevalent trends in conspiracy theories. It also aims to understand the dynamics of interaction between individuals and the entities, whether communities or channels, that propagate these conspiracy theories. For a more thorough explanation, please see [paper](https://ojs.aaai.org/index.php/ICWSM/article/view/22218/21997) and [Dataset](https://zenodo.org/record/7539706).
