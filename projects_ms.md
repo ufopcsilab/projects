@@ -41,24 +41,24 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 ## Multiobjective optimization <a name="moo"></a>
 
-1) **Surrogate-based Multi-objetive Optimization for Deep Neural Networks Compression**
+1) **Surrogate-based Multi-objective Optimization for Deep Neural Networks Compression**
 > Professor: Rodrigo Silva
 
 > Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
 
-2) **Multi-objetive Feature Extraction for Tabular Data**
+2) **Multi-objective Feature Extraction for Tabular Data**
 
 > Professor: Rodrigo Silva
 
-> Descrition: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
+> Description: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
 
-3) **Multi-objetive Problem: Guiding under uniformity measure in the decision space**
+3) **Multi-objective Problem: Guiding under uniformity measure in the decision space**
 
 > Professor: Gladston Moreira
 
 > Student: Open selection process 
 
-> Descrition: It aims to develop approaches for multi-objective optimization that integrates a guiding criterion to promote the uniformity of solutions in the decision variable space into the search procedure. A good representation of solutions in the decision space is also important from the point of view of the decision-making process. See this [paper](https://ieeexplore.ieee.org/document/9037034).
+> Description: It aims to develop approaches for multi-objective optimization that integrate a guiding criterion to promote the uniformity of solutions in the decision variable space into the search procedure. A good representation of solutions in the decision space is also important from the point of view of the decision-making process. See this [paper](https://ieeexplore.ieee.org/document/9037034).
 
 
 ## Machine Learning / Deep Learning <a name="machine-learning"></a>
@@ -89,7 +89,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 > 
 > Students: Adriano Figueiredo
 > 
-> Description: Biometrics consists of identifying or verifying an individual through a physical/behavioral trait, which is also known as a biometric modality. We are studying some specific modalities, such as ocular biometrics and through biometric signals (ECG, EEG). Currently, we explore deep learning techniques for the task.
+> Description: Biometrics consists of identifying or verifying an individual through a physical/behavioral trait, which is also known as a biometric modality. We are studying some specific modalities, such as ocular biometrics and through biometric signals (ECG, EEG). Currently, we are deep learning techniques for the task.
 
 > Results: Our group has been working on this topic for over 10 years and has some contributions published in the literature, whether in ocular/periocular biometrics ([paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Deep%20periocular%20representation%20aiming%20video%20surveillance)), ECG signal [paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Learning%20deep%20off%2Dthe%2Dperson%20heart%20biometrics%20representations), EEG [paper](https://scholar.google.com.br/citations?user=20pViLEAAAAJ&hl=pt-BR#:~:text=Convolutional%20network%20for%20EEG%2Dbased%20biometric), among others (see [paper](https://link.springer.com/article/10.1007/s10462-021-10028-w) and [paper](https://www.mdpi.com/1424-8220/19/13/2968)). Currently, we are building a database to extract signals through cameras using the Eulerian Video Magnification (EVM) method. We are also working to improve a loss function (D-loss - proposed by Prof. Pedro) for biometrics purposes (see [paper](https://ieeexplore.ieee.org/abstract/document/9891934)).
 
@@ -106,9 +106,9 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Students: Pedro Castro (Ph.D. candidate)
 
-> Description: Plant species can be recognized by its leaf, flower, fruit, etc. The aim of this project is to investigate deep learning methods in the context of plant species recognition via images. See this [paper](https://ieeexplore.ieee.org/abstract/document/9667141/) for more information. Dataset available within the [paper](https://www.sciencedirect.com/science/article/pii/S2352340921005965).
+> Description: Plant species can be recognized by their leaves, flowers, fruit, etc. The aim of this project is to investigate deep learning methods in the context of plant species recognition via images. See this [paper](https://ieeexplore.ieee.org/abstract/document/9667141/) for more information. Dataset available within the [paper](https://www.sciencedirect.com/science/article/pii/S2352340921005965).
 
-6) **Deep learning aplied to medical imagens**
+6) **Deep learning applied to medical images**
 > Professors: Eduardo Luz, Gladston Moreira, Pedro Silva and Rodrigo Silva
 
 > Students: Jean Pinheiro
@@ -123,7 +123,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 > Description: Recent advances in Automatic Speech Recognition have made it possible to achieve a quality never seen before in the literature, both for languages with abundant data, such as English, which has a large number of studies and for the Portuguese language, which has a more limited amount of resources and studies. This research project explores state-of-the-art techniques for the Portuguese. For reference see [Alvarenga at al, 2023](https://latamt.ieeer9.org/index.php/transactions/article/view/7464) - [Link for video abstract](https://www.youtube.com/watch?v=yJ8FygAPvqw) 
 > 
 
-8) **Hiperparameter optimization**
+8) **Hyperparameter optimization**
 > Professor: Jadson Castro Gertrudes
 
 > Students:
@@ -149,7 +149,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 >Students: Marcus Almeira, Mariana Mota, Luisa Cizilio, Andressa Souza
 
->Description: All financial institutions are adapting to function almost exclusively online. However, the ease of opening digital accounts has brought enormous challenges to the sector. One of the challenges is the ease with which customers move between banks and financial companies, making retention difficult. The ease of opening accounts has also led to an increase in cases of account creation used for fraud. And the uncontrolled explosion in the increase of customers makes credit management virtually impossible to be done manually. In order to assist financial analysts, some form of automation is mandatory. Solutions based on artificial intelligence (AI) and machine learning (ML) techniques, especially artificial neural network models, are powerful tools when there is a good volume of historical data. The project aims to study and develop AI and ML models for fraud detection, credit analysis and customer management.
+>Description: All financial institutions are adapting to function almost exclusively online. However, the ease of opening digital accounts has brought enormous challenges to the sector. One of the challenges is the ease with which customers move between banks and financial companies, making retention difficult. The ease of opening accounts has also led to an increase in cases of account creation used for fraud. The uncontrolled explosion in the number of customers makes credit management virtually impossible to do manually. In order to assist financial analysts, some form of automation is mandatory. Solutions based on artificial intelligence (AI) and machine learning (ML) techniques, especially artificial neural network models, are powerful tools when there is a good volume of historical data. The project aims to study and develop AI and ML models for fraud detection, credit analysis, and customer management.
 
 >Results: This research came from a partnership between the PPGCC/UFOP and Gerencianet (now Efí). See preliminary results in [paper 1](https://sol.sbc.org.br/index.php/eniac/article/download/22791/22614/) and [paper 2](https://sol.sbc.org.br/index.php/eniac/article/download/22772/22595). 
 
@@ -165,15 +165,15 @@ The projects are listed below. It is worth mentioning that there are possible in
 
 > Students:
 
-> Description:  Dataset distillation aims to derive a smaller dataset from a large one, using synthetic samples, to train models that yield performance comparable with those trained on the original dataset. With this project, we plan to investigate dataset distillation on several tasks in different domains. For a more detailed information see the [paper](https://arxiv.org/abs/2301.07014).
+> Description:  Dataset distillation aims to derive a smaller dataset from a large one, using synthetic samples, to train models that yield performance comparable with those trained on the original dataset. With this project, we plan to investigate dataset distillation on several tasks in different domains. For more detailed information see the [paper](https://arxiv.org/abs/2301.07014).
 
-4) **Surrogate-based Multi-objetive Optimization for Deep Neural Networks Compression**
+4) **Surrogate-based Multi-objective Optimization for Deep Neural Networks Compression**
 > Professor: Rodrigo Silva
 
 > Description: It aims to find a trade-off between multiple objectives, such as accuracy and computational efficiency, when compressing deep neural networks. The project will use surrogate models, such as Gaussian processes or decision trees, to efficiently search for optimal solutions that balance these conflicting objectives.
 
-5) **Multi-objetive Feature Extraction for Tabular Data**
+5) **Multi-objective Feature Extraction for Tabular Data**
 
 > Professor: Rodrigo Silva
 
-> Descrition: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
+> Description: It aims to develop approaches for multi-objective feature extraction, which will simultaneously optimize multiple objectives such as classification accuracy, feature compactness, and robustness. The proposed method may utilize evolutionary algorithms to efficiently explore the search space of feature subsets and identify the Pareto-optimal solutions.
