@@ -229,7 +229,7 @@ The projects are listed below. It is worth mentioning that there are possible in
 5) **Interpretable Feature Extraction for tabular data**
 > Professor: Rodrigo Silva
  
-> Description: This project aims to identify the most important variables in a dataset while also providing insights into why these variables are significant. It may investigate techniques such as LIME, SHAP, and decision trees to understand and explain the feature extraction process. More details at https://shorturl.at/bitx4
+> Description: This project aims to identify the most important variables in a dataset while also providing insights into why these variables are significant. It may investigate techniques such as LIME, SHAP, and decision trees to understand and explain the feature extraction process. 
 
 6) **Conspiracy Theory Detection and Classification from YouTube Videos**
 > Professor: Eduardo Luz
