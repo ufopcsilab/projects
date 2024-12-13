@@ -1,16 +1,16 @@
-# Welcome to the CSILab - Laboratório de Sistemas de Computação Inteligente / Univeresidade Federal de Ouro Preto
+# Welcome to the CSILab - Laboratório de Computação de Sistemas Inteligentes da Universidade Federal de Ouro Preto
 
 If you wanna be a student or collaborator in the [CSILab](http://www.decom.ufop.br/csilab/), here you will find information about how we work and tons of interesting projects to join in.
 
 The fields we work in are:
 
- - Artificial intelligence 
- - Network science / Complex networks / Complex systems
- - Multiobjective optimization
- - Machine Learning / Deep Learning
- - Data Science
- - Computational Statistics
- - Computer Vision
+ - Artificial intelligence (Inteligência Artificial)
+ - Network science / Complex networks / Complex systems (Redes Complexas)
+ - Multiobjective optimization (Otimização Multiobjetivo)
+ - Machine Learning / Deep Learning (Aprendizagem de Máquina)
+ - Data Science (Ciência de Dados)
+ - Computational Statistics (Estatística Computacional)
+ - Computer Vision (Visão Computacional)
 
 
 Professors:
