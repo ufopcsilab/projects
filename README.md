@@ -51,3 +51,9 @@ Find below lists of projects you could get involved in according to your level (
 [Master's degree](projects_ms.md)
 
 [Ph.D.](projects_phd.md)
+
+## Mission
+
+The **CSILab** – Intelligent Systems Computing Laboratory at the *Federal University of Ouro Preto* is a research group dedicated to advancing artificial intelligence, machine learning, computer vision, pattern recognition, and data science. Our mission is to foster innovation, develop cutting-edge technological solutions, and provide specialized AI consulting. By combining excellence in academic research with practical applications, we tackle real-world challenges and drive scientific and technological progress. Join us at **CSILab**, where ideas are transformed into impact.
+
+O **CSILab** - Laboratório de Computação de Sistemas Inteligentes da Universidade Federal de Ouro Preto é um grupo de pesquisa dedicado ao avanço da inteligência artificial, aprendizagem de máquina, visão computacional, reconhecimento de padrões e ciências de dados. Nosso foco está em promover a inovação, desenvolver soluções tecnológicas de ponta e realizar consultorias especializadas em inteligência artificial. Combinamos pesquisa acadêmica de excelência com aplicação prática para enfrentar desafios reais, contribuindo para o progresso científico e tecnológico. Venha conhecer e colaborar com o **CSILab**, onde transformamos ideias em impacto.
