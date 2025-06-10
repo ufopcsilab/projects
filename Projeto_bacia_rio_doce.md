@@ -50,6 +50,11 @@
 - **Integração com mercados locais**  
   - Merenda escolar  
   - Feiras comunitárias
+
+- **Plataforma de suporte**  
+  - Tutoriais técnicos  
+  - Predição de pragas/doenças com IA  
+
 ---
 ---
 ## Experiência prévia da equipe
@@ -60,7 +65,3 @@
 - Projeto Inteligência Artificial aplicada à conservação de edificações históricas localizadas na Bacia do Rio Doce (https://www.instagram.com/ia.patrimonio/).
 - Criação do curso "Inteligência artificial e patrimônio cultural: ciência e tecnologia impulsionando o futuro das construções históricas" para a capacitação de profissionais e estudantes: 			
 https://www.ufop.br/noticias/pesquisa-e-inovacao/professor-da-ufop-ministra-oficina-sobre-inteligencia-artificial-na
-
-- **Plataforma de suporte**  
-  - Tutoriais técnicos  
-  - Predição de pragas/doenças com IA  
