@@ -1,4 +1,4 @@
-# Projetos do grupo de computação da Universidade Federal de Ouro Preto relacionados à temática do Novo Acordo Rio Doce
+# Projetos do grupo de Computação da Universidade Federal de Ouro Preto relacionados à temática do Novo Acordo Rio Doce
 
 ### Monitoramento da Qualidade da Água para Consumo Humano  
 **Objetivo**: Garantir que a água do Rio Doce esteja segura para uso humano, especialmente nas áreas afetadas.  
