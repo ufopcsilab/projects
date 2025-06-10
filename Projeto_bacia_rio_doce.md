@@ -71,6 +71,8 @@
   	🔗 [Arrhythmia classification from single-lead ECG signals using the inter-patient paradigm](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=20pViLEAAAAJ&citation_for_view=20pViLEAAAAJ:PVjk1bu6vJQC)
   	🔗 [Towards an effective and efficient deep learning model for COVID-19 patterns detection in X-ray images](https://link.springer.com/article/10.1007/s42600-021-00151-6)
   	🔗 [COVID-19 detection in CT images with deep learning: A voting-based scheme and cross-datasets analysis](https://www.sciencedirect.com/science/article/pii/S2352914820305773)	
+    🔗 [Explaining machine learning based diagnosis of COVID-19 from routine blood tests with decision trees and criteria graphs](https://doi.org/10.1016/j.compbiomed.2021.104335)
+    🔗 [Elevating Healthcare AI: Achieving Efficiency and Accuracy in Medical Applications with Surrogate-Based Multiobjective Compression of ResNet50 CNNs](https://sol.sbc.org.br/index.php/bracis/article/view/33655)
 
 - **Inteligência artificial para apoio ao diagnóstico de doenças com garantias de privacidade**
     🔗 [Evaluating Federated Learning with Homomorphic Encryption for Medical Named Entity Recognition Using Compact BERT Models](https://sol.sbc.org.br/index.php/stil/article/view/31115)
