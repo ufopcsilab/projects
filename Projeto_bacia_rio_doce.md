@@ -14,6 +14,13 @@
 - **Monitoramento Ambiental com IA para Restauração da Bacia do Rio Doce**  
   *(Análise de imagens de satélite + detecção de áreas degradadas)*
 
+- **Atendimento pós-catástrofe: Roteamento para ajuda humanitária** [(DOI: 10.1080/01605682.2017.1390534)]  
+  *(Cria sinergia com sistemas de alerta comunitário existentes, com foco em resposta rápida)*
+
+- **Projeto iFAST (CNPq 446053/2023-6)**  
+  *(Prevenção de desastres naturais com foco em eventos extremos)*  
+  🔗 [Site do projeto](https://sites.google.com/view/projectifast)
+
 ## Retomada Econômica e Geração de Renda
 - **Projeto de Horta Inteligente com IoT e Capacitação**  
   *(Integração com merenda escolar e feiras locais)*
@@ -21,12 +28,25 @@
 - **Diagnóstico Econômico e Proposição de Políticas**  
   *(Modelos para desenvolvimento resiliente das microrregiões mineiras)*
 
+- **Logística sustentável: Veículos com energia verde** [(DOI: 10.1016/j.cor.2024.106713, 10.1016/j.ejtl.2022.100094)]  
+  *(foco em tecnologias verdes para transporte)*
+
 ## Inovação e Gestão Pública com IA
 - **Organização de Demandas com IA para Apoio às Comunidades Atingidas**  
   *(Modelos de linguagem para priorização de demandas)*
   
 - **Criação de Modelos Preditivos de Saúde Pública com IA**  
   *(Previsão de surtos + alocação de recursos em saúde)*
+
+- **Utilização de técnicas de inteligência computacional aplicadas às áreas de logística e alocação de recursos públicos na área de saúde**  
+  *(Otimização de alocação em saúde usando IA)*
+
+- **Alocação de equipamentos/equipes da saúde para otimizar recursos** [(DOI: 10.4322/podes.2023.001)]  
+  *(focando em eficiência operacional)*
+
+- **Participação no Comitê de IA da SBMAC**  
+  *(A equipe possui membros no Comitê Temático da Sociedade Brasileira de Matemática Aplicada e Computacional (SBMAC) sobre Inteligência Artificial e Dinâmica de Sistemas Complexos)*  
+  🔗 [Link do comitê](https://www.sbmac.org.br/inteligencia-artificial-e-dinamica-de-sistemas-complexos/)
 
 ## Sustentabilidade, Legado e Produção Científica
 - **Cálculo de Estimativa de Retorno da Biodiversidade**  
@@ -42,9 +62,25 @@
 - **Criação de Modelos Preditivos de Saúde Pública com IA**  
   *(Monitoramento de doenças relacionadas à contaminação)*
 
+- **Alocação de equipamentos/equipes da saúde**  
+  *(Dobra nesta categoria por seu impacto direto na eficácia do atendimento à população)*
+
 ## Economia
 - **Modelos Preditivos para Impactos Socioeconômicos**  
   *(Análise de choques macroeconômicos e tecnológicos)*
+
+## Patrimônio Cultural e Tecnologia
+- **IA aplicada à conservação de edificações históricas**  
+  - Classificação de imagens de patrimônio  
+  - Artigos:  
+    - [ImageOP Dataset](https://doi.org/10.3390/heritage7110302)  
+    - [Hyperparameter tuning](https://doi.org/10.1007/s13042-022-01555-1)  
+    - [Crack classification](https://doi.org/10.1007/s00500-023-09103-x)  
+  🔗 [Instagram do projeto](https://www.instagram.com/ia.patrimonio/)
+
+- **Curso de IA e patrimônio cultural**  
+  *(Capacitação técnica para preservação histórica)*  
+  🔗 [Notícia UFOP](https://www.ufop.br/noticias/pesquisa-e-inovacao/professor-da-ufop-ministra-oficina-sobre-inteligencia-artificial-na)
 
 ---
 ---
