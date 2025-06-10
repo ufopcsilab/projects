@@ -61,10 +61,19 @@
   
 - **Criação de Modelos Preditivos de Saúde Pública com IA**  
   *(Monitoramento de doenças relacionadas à contaminação)*
-
+  
 - **Alocação de equipamentos/equipes da saúde**  
   *(Dobra nesta categoria por seu impacto direto na eficácia do atendimento à população)*
 
+- **Projeto Inteligência Artificial aplicada à Saúde**
+   🔗 [ECG-based heartbeat classification for arrhythmia detection: A survey](https://www.sciencedirect.com/science/article/pii/S0169260715003314)
+  	🔗 [ECG arrhythmia classification based on optimum-path forest](https://www.sciencedirect.com/science/article/pii/S0957417412013048)
+  	🔗 [Arrhythmia classification from single-lead ECG signals using the inter-patient paradigm](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=20pViLEAAAAJ&citation_for_view=20pViLEAAAAJ:PVjk1bu6vJQC)
+  	🔗 [Towards an effective and efficient deep learning model for COVID-19 patterns detection in X-ray images](https://link.springer.com/article/10.1007/s42600-021-00151-6)
+  	🔗 [COVID-19 detection in CT images with deep learning: A voting-based scheme and cross-datasets analysis](https://www.sciencedirect.com/science/article/pii/S2352914820305773)	
+- **Projeto Inteligência Artificial aplicada a mitigação de impactos da indústria**
+  	🔗 [Towards robust ferrous scrap material classification with deep learning and conformal prediction](https://www.sciencedirect.com/science/article/pii/S0952197624018827)
+  	 
 ## Economia
 - **Modelos Preditivos para Impactos Socioeconômicos**  
   *(Análise de choques macroeconômicos e tecnológicos)*
