@@ -155,3 +155,18 @@ https://www.ufop.br/noticias/pesquisa-e-inovacao/professor-da-ufop-ministra-ofic
 - Projetos de IC:
 	- PIBIC/CNPq (01/09/2024 - 31/08/2025): Predição dos níveis de um rio a partir do TimesFM, um foundation model para predição de séries temporais. Em andamento
 	- PIBITI/UFOP (01/09/2023-31/08/2024): Desenvolvimento de um software para geração automática de redes de arruamento a partir de shapefiles. Artigo resultante: [ShpStreetGraph: From spatial relations of streets to graph representations](https://doi.org/10.1016/j.simpa.2024.100711)
+
+**Artigos e outras informações sobre a equipe, podem ser encontrados em:**
+- Prof. Dr. André Luiz Carvalho Ottoni [[Lattes](http://lattes.cnpq.br/2003401420560517)] [[Google Scholar](https://scholar.google.com/citations?user=hk9BkC8AAAAJ)]
+- Prof. Dr. Carlos Henrique Gomes Ferreira [[Lattes](http://lattes.cnpq.br/0748942455194916)] [[Google Scholar](https://scholar.google.com/citations?user=ILpkjHAAAAAJ)]
+- Prof. Dr. Eduardo José da Silva Luz [[Lattes](http://lattes.cnpq.br/5385878413487984)] [[Google Scholar](https://scholar.google.com/citations?user=20pViLEAAAAJ)]
+- Profa. Dra. Helen de Cássia Sousa da Costa Lima [[Lattes](http://lattes.cnpq.br/1647203174957503)]
+- Prof. Dr. Ivair Ramos Silva [[Lattes](http://lattes.cnpq.br/7969497765428744)] [[Google Scholar](https://scholar.google.com/citations?user=i46uaHIAAAAJ)]
+- Prof. Dr. Jadson Castro Gertrudes [[Lattes](http://lattes.cnpq.br/2870519332050607)] [[Google Scholar](https://scholar.google.com/citations?user=B2b_ATMAAAAJ)] 
+- Prof. Dr. Luiz Carlos Bambirra Torres [[Lattes](http://lattes.cnpq.br/8559513813180335)] [[Google Scholar](https://scholar.google.com/citations?user=z8m6hYEAAAAJ)] 
+- Prof. Dr. Pedro Henrique Lopes Silva [[Lattes](http://lattes.cnpq.br/5939805873458297)] [[Google Scholar](https://scholar.google.com/citations?user=JZt9ClYAAAAJ)] 
+- Prof. Dr. Puca Huachi Vaz Penna [[Lattes](http://lattes.cnpq.br/4851300394762688)] [[Google Scholar](https://scholar.google.com/citations?user=4KhhXQIAAAAJ)] 
+- Prof. Dr. Racyus Delano Garcia Pacífico [[Lattes](http://lattes.cnpq.br/9594901380554916)] [[Google Scholar](https://scholar.google.com/citations?user=4KhhXQIAAAAJ)] 
+- Prof. Dr. Rodrigo Cesar Pedrosa Silva [[Lattes](http://lattes.cnpq.br/1368091094952755)] [[Google Scholar](https://scholar.google.com/citations?user=Ki1CGw4AAAAJ)] 
+- Profa. Dra. Valéria de Carvalho Santos  [[Lattes](http://lattes.cnpq.br/1153044237982775)]
+- Prof. Dr. Vander Luis de Souza Freitas [[Lattes](https://lattes.cnpq.br/5339877279308939)] [[Google Scholar](https://scholar.google.com/citations?user=XX3euXkAAAAJ)] 
