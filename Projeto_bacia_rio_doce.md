@@ -74,7 +74,7 @@
 - **Projeto Inteligência Artificial aplicada a mitigação de impactos da indústria**
   	🔗 [Towards robust ferrous scrap material classification with deep learning and conformal prediction](https://www.sciencedirect.com/science/article/pii/S0952197624018827)
 
-- **Epidemilogia e Vigilância Sindrómica**
+- **Epidemilogia e Vigilância Sindrômica**
   	🔗 [Arbitrarily shaped spatial cluster detection via reinforcement learning algorithms](http://dx.doi.org/10.1007/s10651-025-00649-7)
    🔗 [The person-time ratio distribution for the exact monitoring of adverse events: Historical vs surveillance Poisson data](https://doi.org/10.1002/sim.9805)
   
