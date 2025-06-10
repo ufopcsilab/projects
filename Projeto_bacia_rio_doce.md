@@ -73,6 +73,11 @@
   	🔗 [COVID-19 detection in CT images with deep learning: A voting-based scheme and cross-datasets analysis](https://www.sciencedirect.com/science/article/pii/S2352914820305773)	
 - **Projeto Inteligência Artificial aplicada a mitigação de impactos da indústria**
   	🔗 [Towards robust ferrous scrap material classification with deep learning and conformal prediction](https://www.sciencedirect.com/science/article/pii/S0952197624018827)
+
+- **Epidemilogia e Vigilância Sindrómica**
+  	🔗 [Arbitrarily shaped spatial cluster detection via reinforcement learning algorithms](http://dx.doi.org/10.1007/s10651-025-00649-7)
+   🔗 [The person-time ratio distribution for the exact monitoring of adverse events: Historical vs surveillance Poisson data](https://doi.org/10.1002/sim.9805)
+  
   	 
 ## Economia
 - **Modelos Preditivos para Impactos Socioeconômicos**  
