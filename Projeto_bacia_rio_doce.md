@@ -103,6 +103,7 @@
 - Prof. Dr. André Luiz Carvalho Ottoni [[Lattes](http://lattes.cnpq.br/2003401420560517)] [[Google Scholar](https://scholar.google.com/citations?user=hk9BkC8AAAAJ)]
 - Prof. Dr. Carlos Henrique Gomes Ferreira [[Lattes](http://lattes.cnpq.br/0748942455194916)] [[Google Scholar](https://scholar.google.com/citations?user=ILpkjHAAAAAJ)]
 - Prof. Dr. Eduardo José da Silva Luz [[Lattes](http://lattes.cnpq.br/5385878413487984)] [[Google Scholar](https://scholar.google.com/citations?user=20pViLEAAAAJ)]
+- Prof. Dr. Gladston Moreira [[Lattes](http://lattes.cnpq.br/9902619084565293)] [[Googla Scholar](https://scholar.google.com/citations?user=L4nnrk8AAAAJ&hl=en)]
 - Profa. Dra. Helen de Cássia Sousa da Costa Lima [[Lattes](http://lattes.cnpq.br/1647203174957503)]
 - Prof. Dr. Ivair Ramos Silva [[Lattes](http://lattes.cnpq.br/7969497765428744)] [[Google Scholar](https://scholar.google.com/citations?user=i46uaHIAAAAJ)]
 - Prof. Dr. Jadson Castro Gertrudes [[Lattes](http://lattes.cnpq.br/2870519332050607)] [[Google Scholar](https://scholar.google.com/citations?user=B2b_ATMAAAAJ)] 
