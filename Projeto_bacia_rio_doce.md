@@ -1,4 +1,4 @@
-# Projetos do grupo de Computação da Universidade Federal de Ouro Preto relacionados à temática do Novo Acordo Rio Doce
+# Datacenter Verde e Hub de Inteligência Artificial Bacia do Rio Doce  Apoio à Reparação e ao Desenvolvimento Sustentável
 
 ## Capacitação e Formação Tecnológica
 - **Projeto de Horta Inteligente com IoT e Capacitação**  
