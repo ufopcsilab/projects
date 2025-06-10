@@ -71,6 +71,11 @@
   	🔗 [Arrhythmia classification from single-lead ECG signals using the inter-patient paradigm](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=20pViLEAAAAJ&citation_for_view=20pViLEAAAAJ:PVjk1bu6vJQC)
   	🔗 [Towards an effective and efficient deep learning model for COVID-19 patterns detection in X-ray images](https://link.springer.com/article/10.1007/s42600-021-00151-6)
   	🔗 [COVID-19 detection in CT images with deep learning: A voting-based scheme and cross-datasets analysis](https://www.sciencedirect.com/science/article/pii/S2352914820305773)	
+
+- **Inteligência artificial para apoio ao diagnóstico de doenças com garantias de privacidade**
+    🔗 [Evaluating Federated Learning with Homomorphic Encryption for Medical Named Entity Recognition Using Compact BERT Models](https://sol.sbc.org.br/index.php/stil/article/view/31115)
+    🔗 [Adaptive Client-Dropping in Federated Learning: Preserving Data Integrity in Medical Domains](https://sol.sbc.org.br/index.php/bracis/article/view/33555)	
+
 - **Projeto Inteligência Artificial aplicada a mitigação de impactos da indústria**
   	🔗 [Towards robust ferrous scrap material classification with deep learning and conformal prediction](https://www.sciencedirect.com/science/article/pii/S0952197624018827)
 
