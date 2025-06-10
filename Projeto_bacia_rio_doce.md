@@ -56,6 +56,90 @@
   - Predição de pragas/doenças com IA  
 
 ---
+
+## Monitoramento Ambiental com IA para Restauração da Bacia do Rio Doce
+**Objetivo**: Apoiar a restauração florestal e a recuperação de nascentes por meio do uso de inteligência artificial e imagens de satélite.
+
+- **Análise de imagens via IA**
+  - Fontes: Google Earth Engine, SENTINEL
+  - Detecção automática de áreas degradadas ou contaminadas
+  - Comparação temporal (antes e depois do desastre / evolução das ações de restauração)
+
+- **Apoio à tomada de decisão**
+  - Priorização de áreas críticas para restauração
+  - Geração de relatórios visuais e mapas interativos
+  - Dados integrados a sistemas de gestão ambiental
+
+- **Ferramenta de transparência e acompanhamento**
+  - Plataforma aberta para órgãos de controle e sociedade civil
+  - Visualização das áreas detectadas como degradas ou contaminadas
+
+---
+
+## Organização de Demandas com IA para Apoio às Comunidades Atingidas
+**Objetivo**: Priorizar e organizar as demandas dos atingidos usando modelos de linguagem (IA), facilitando a atuação das Assessorias Técnicas Independentes.
+
+- **Análise automatizada de informações**
+  - Fontes: formulários, e-mails, atas, gravações de reuniões
+  - Uso de modelos de linguagem para extrair e categorizar demandas
+  - Identificação de padrões e temas recorrentes nas comunidades
+
+- **Sistema de apoio à decisão**
+  - Painel interativo com demandas por localidade, urgência e tema
+  - Alertas para novas demandas ou mudanças de prioridade
+  - Geração de relatórios para articulação com instituições e comitês
+
+- **Fortalecimento das Assessorias Técnicas**
+  - Ferramenta para planejamento de ações com base em dados reais
+  - Apoio na escuta qualificada e registro sistematizado das demandas
+  - Tradução automática de áudios e textos para facilitar o acesso à informação
+
+---
+ 
+## Cálculo de Estimativa de Retorno da Biodiversidade com Dados Ambientais
+**Objetivo**: Apoiar políticas públicas de recomposição ecológica no Rio Doce por meio da estimativa do retorno da biodiversidade em áreas impactadas.
+
+- **Modelo preditivo de biodiversidade**
+  - Uso de dados históricos e atuais: fauna, flora, qualidade da água
+  - Indicadores: pH, turbidez, presença de metais pesados, oxigênio dissolvido
+  - Comparação entre períodos: antes e depois do desastre
+
+- **Mapeamento de áreas prioritárias**
+  - Identificação de zonas com maior potencial de recuperação ecológica
+  - Classificação de áreas por estágio de recomposição e necessidade de intervenção
+  - Integração com dados de restauração florestal e monitoramento de nascentes
+
+- **Ferramenta de suporte à gestão ambiental**
+  - Simulações para orientar repovoamento e reflorestamento
+  - Painéis visuais com tendências de biodiversidade por região
+  - Apoio à criação e monitoramento de unidades de conservação
+
+---
+
+## Criação de Modelos Preditivos de Saúde Pública com IA e Dados Sanitários
+**Objetivo**: Monitorar e prever o avanço de doenças associadas à contaminação ambiental na Bacia do Rio Doce, auxiliando na priorização de recursos e ações de saúde.
+
+- **Análise preditiva com IA**
+  - Integração de dados da vigilância sanitária, hospitalar e ambiental
+  - Modelos para prever surtos de doenças relacionadas a água contaminada (doenças de pele, respiratórias, gastrointestinais)
+  - Identificação de populações vulneráveis e áreas críticas
+
+- **Ferramenta de apoio à gestão em saúde**
+  - Painéis com alertas de risco por região
+  - Recomendação de alocação de equipes, insumos e infraestrutura
+  - Geração de relatórios para secretarias municipais e estaduais de saúde
+
+- **Monitoramento contínuo e atualizado**
+  - Inclusão de novos dados em tempo real (postos de saúde, UBS, escolas)
+  - Detecção de tendências e novas ameaças à saúde pública
+  - Conexão com dados ambientais (qualidade da água, clima, resíduos)
+
+- **Capacitação e uso comunitário**
+  - Formação de agentes comunitários para uso da ferramenta
+  - Disponibilização de dados em linguagem acessível
+  - Fortalecimento da participação popular no SUS local
+
+---
 ---
 ## Experiência prévia da equipe
 
