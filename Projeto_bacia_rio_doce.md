@@ -8,8 +8,8 @@
 - **Monitoramento da Qualidade da Água para Consumo Humano**  
   *(Sensores IoT + dashboard comunitário + sistema de alerta)*
   
-- **Monitoramento dos Níveis do Rio Doce com Priorização de Uso**  
-  *(Gestão hidrológica com IA + alocação inteligente de água)*
+- **Monitoramento dos Níveis do Rio Doce com Priorização de Uso** 
+  *(Gestão hidrológica com IA + alocação inteligente de água; Projeto de IC com bolsa CNPq/PIBIC vigente para predição de séries temporais de níveis de rio usando Foundation Models)*
   
 - **Monitoramento Ambiental com IA para Restauração da Bacia do Rio Doce**  
   *(Análise de imagens de satélite + detecção de áreas degradadas)*
