@@ -57,7 +57,7 @@
 
 ---
 
-## Monitoramento Ambiental com IA para Restauração da Bacia do Rio Doce
+### Monitoramento Ambiental com IA para Restauração da Bacia do Rio Doce
 **Objetivo**: Apoiar a restauração florestal e a recuperação de nascentes por meio do uso de inteligência artificial e imagens de satélite.
 
 - **Análise de imagens via IA**
@@ -76,7 +76,7 @@
 
 ---
 
-## Organização de Demandas com IA para Apoio às Comunidades Atingidas
+### Organização de Demandas com IA para Apoio às Comunidades Atingidas
 **Objetivo**: Priorizar e organizar as demandas dos atingidos usando modelos de linguagem (IA), facilitando a atuação das Assessorias Técnicas Independentes.
 
 - **Análise automatizada de informações**
@@ -96,7 +96,7 @@
 
 ---
  
-## Cálculo de Estimativa de Retorno da Biodiversidade com Dados Ambientais
+### Cálculo de Estimativa de Retorno da Biodiversidade com Dados Ambientais
 **Objetivo**: Apoiar políticas públicas de recomposição ecológica no Rio Doce por meio da estimativa do retorno da biodiversidade em áreas impactadas.
 
 - **Modelo preditivo de biodiversidade**
@@ -116,7 +116,7 @@
 
 ---
 
-## Criação de Modelos Preditivos de Saúde Pública com IA e Dados Sanitários
+### Criação de Modelos Preditivos de Saúde Pública com IA e Dados Sanitários
 **Objetivo**: Monitorar e prever o avanço de doenças associadas à contaminação ambiental na Bacia do Rio Doce, auxiliando na priorização de recursos e ações de saúde.
 
 - **Análise preditiva com IA**
