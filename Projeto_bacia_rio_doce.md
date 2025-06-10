@@ -70,10 +70,17 @@ https://www.ufop.br/noticias/pesquisa-e-inovacao/professor-da-ufop-ministra-ofic
 - Profa. Dra. Helen de Cássia Sousa da Costa Lima [[Lattes](http://lattes.cnpq.br/1647203174957503)]
 - Prof. Dr. Ivair Ramos Silva [[Lattes](http://lattes.cnpq.br/7969497765428744)] [[Google Scholar](https://scholar.google.com/citations?user=i46uaHIAAAAJ)]
 - Prof. Dr. Jadson Castro Gertrudes [[Lattes](http://lattes.cnpq.br/2870519332050607)] [[Google Scholar](https://scholar.google.com/citations?user=B2b_ATMAAAAJ)] 
+- Dr. Leonardo Bacelar Lima Santos [[Lattes](http://lattes.cnpq.br/9147853693310634)] [[Google Scholar](https://scholar.google.com/citations?user=J2_iEs8AAAAJ)] 
 - Prof. Dr. Luiz Carlos Bambirra Torres [[Lattes](http://lattes.cnpq.br/8559513813180335)] [[Google Scholar](https://scholar.google.com/citations?user=z8m6hYEAAAAJ)] 
 - Prof. Dr. Pedro Henrique Lopes Silva [[Lattes](http://lattes.cnpq.br/5939805873458297)] [[Google Scholar](https://scholar.google.com/citations?user=JZt9ClYAAAAJ)] 
 - Prof. Dr. Puca Huachi Vaz Penna [[Lattes](http://lattes.cnpq.br/4851300394762688)] [[Google Scholar](https://scholar.google.com/citations?user=4KhhXQIAAAAJ)] 
 - Prof. Dr. Racyus Delano Garcia Pacífico [[Lattes](http://lattes.cnpq.br/9594901380554916)] [[Google Scholar](https://scholar.google.com/citations?user=4KhhXQIAAAAJ)] 
 - Prof. Dr. Rodrigo Cesar Pedrosa Silva [[Lattes](http://lattes.cnpq.br/1368091094952755)] [[Google Scholar](https://scholar.google.com/citations?user=Ki1CGw4AAAAJ)] 
 - Profa. Dra. Valéria de Carvalho Santos  [[Lattes](http://lattes.cnpq.br/1153044237982775)]
-- Prof. Dr. Vander Luis de Souza Freitas [[Lattes](https://lattes.cnpq.br/5339877279308939)] [[Google Scholar](https://scholar.google.com/citations?user=XX3euXkAAAAJ)] 
+- Prof. Dr. Vander Luis de Souza Freitas [[Lattes](https://lattes.cnpq.br/5339877279308939)] [[Google Scholar](https://scholar.google.com/citations?user=XX3euXkAAAAJ)]
+- Prof. Dr. Eduardo Rios-Neto
+- Prof. Dr. Welbert Alves Rodrigues
+- Profa. Dra Fernanda Faria Silva
+- Prof. Dr. Victor Maia Sena Delgado
+- Prof. Dr. Alan Borges
+- Profa. Dra. Isis Eloah
