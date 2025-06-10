@@ -115,9 +115,9 @@
 - Prof. Dr. Rodrigo Cesar Pedrosa Silva [[Lattes](http://lattes.cnpq.br/1368091094952755)] [[Google Scholar](https://scholar.google.com/citations?user=Ki1CGw4AAAAJ)] 
 - Profa. Dra. Valéria de Carvalho Santos  [[Lattes](http://lattes.cnpq.br/1153044237982775)]
 - Prof. Dr. Vander Luis de Souza Freitas [[Lattes](https://lattes.cnpq.br/5339877279308939)] [[Google Scholar](https://scholar.google.com/citations?user=XX3euXkAAAAJ)]
-- Prof. Dr. Eduardo Rios-Neto
-- Prof. Dr. Welbert Alves Rodrigues
-- Profa. Dra Fernanda Faria Silva
-- Prof. Dr. Victor Maia Sena Delgado
-- Prof. Dr. Alan Borges
-- Profa. Dra. Isis Eloah
+- Prof. Dr. Eduardo Rios-Neto [[Lattes](http://lattes.cnpq.br/5640358367116269)]
+- Prof. Dr. Welbert Alves Rodrigues [[Lattes](http://lattes.cnpq.br/1771602109564827)]
+- Profa. Dra Fernanda Faria Silva [[Lattes](http://lattes.cnpq.br/6990965718538138)]
+- Prof. Dr. Victor Maia Sena Delgado [[Lattes](http://lattes.cnpq.br/9618699710392015)]
+- Prof. Dr. Alan Borges [[Lattes](http://lattes.cnpq.br/0421061511760325)]
+- Profa. Dra. Isis Eloah [[Lattes](http://lattes.cnpq.br/0150005556742996)][[Google Scholar](https://scholar.google.com.br/citations?user=z3aclFwAAAAJ&hl=en)]
